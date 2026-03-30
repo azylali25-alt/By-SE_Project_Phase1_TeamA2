@@ -6,8 +6,8 @@ Software Engineering Project
 - Name: [Andi Zylali]
 - GitHub: [azylali25-alt] [azylali25@epoka.edu.al]
 ## Team Members:
-1. [Eklea Jaupaj] - GitHub: [Username] - Email: [ejaupaj25@epoka.edu.al]
-2. [Tea Muca] - GitHub: [Username] - Email: [tmuca25@epoka.edu.al]
+1. [Eklea Jaupaj] - GitHub: [ejaupaj25-gif] - Email: [ejaupaj25@epoka.edu.al]
+2. [Tea Muca] - GitHub: [teamuca451] - Email: [tmuca25@epoka.edu.al]
 3. [Hamit Sula] - GitHub: [hamitsula] - Email: [hsula25@epoka.edu.al]
 4. [Lorjana Kokonozi] - GitHub: [lkokonozi25-sketch] - Email: [lkokonozi25@epoka.edu.al]
 # Project Details
@@ -50,7 +50,7 @@ Handle data storage for users, events, and tickets
 Ensure data integrity and performance
 Manage server-side functionality.]
 4.  [Lorjana Kokonozi] - [QA & Testing / Support
-T est system functionality
+Test system functionality
 Identify bugs and issues
 Ensure usability and reliability
 Assist in documentation.]
