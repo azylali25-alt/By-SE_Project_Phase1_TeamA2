@@ -7,7 +7,7 @@ Software Engineering Project
 - GitHub: [azylali25-alt] [azylali25@epoka.edu.al]
 ## Team Members:
 1. [Eklea Jaupaj] - GitHub: [ejaupaj25-gif] - Email: [ejaupaj25@epoka.edu.al]
-2. [Tea Muca] - GitHub: [teamuca451] - Email: [tmuca25@epoka.edu.al]
+2. [Tea Muca] - GitHub:  [teamuca451] - Email: [tmuca25@epoka.edu.al]
 3. [Hamit Sula] - GitHub: [hamitsula] - Email: [hsula25@epoka.edu.al]
 4. [Lorjana Kokonozi] - GitHub: [lkokonozi25-sketch] - Email: [lkokonozi25@epoka.edu.al]
 # Project Details
